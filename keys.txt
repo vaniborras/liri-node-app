@@ -1,0 +1,11 @@
+//Twitter
+Consumer Key (API Key): cKVxxvCeoBW0W6iecX1T1CGOM
+Consumer Secret (API Secret): 	95UuYbuaw9TXGhNL1BLJ2XaLzrHlM4OiqVegAMhPCB3XaD1I2A
+
+//Spotify
+Client ID: cf68e54c0bef42e79037c8148e91dca1
+Client Secret: c05be18ab2a041c7835b4755d37d6d2e
+
+// OMDb
+key: 6d8045d0
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=6d8045d0
